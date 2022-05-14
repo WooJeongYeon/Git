@@ -6,7 +6,7 @@
 1 회차 : 2022-04-11 ~ 2022-04-28   
 |<center>문제</center>|<center>test</center>|<center>JISOONLEE</center>|<center>yjydev</center>|<center>WooJeongYeon</center>|   
 |:---:|:---:|:---:|:---:|:---:|   
-|<center>aa</center>|[aaaa](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/test/aaaa.java)|-|[js123](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/yjydev/js123.java)|[string](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/WooJeongYeon/string.java)|   
+|<center>aa</center>|[aaaa](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/test/aaaa.java)|-|[js123](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/yjydev/js123.java)|[ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/aa/WooJeongYeon/%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E%E3%85%8E.java)|   
 |<center>테트로미노</center>|-|-|-|-|   
 |<center>주사위 굴리기</center>|-|-|[s1-2](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0/yjydev/s1-2.java)|-|   
 |<center>abc</center>|-|-|-|-|   
