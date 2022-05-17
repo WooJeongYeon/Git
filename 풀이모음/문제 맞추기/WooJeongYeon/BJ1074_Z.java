@@ -44,5 +44,6 @@ public class BJ1074_Z {
 		else if(r >= downI && c >= rightJ) {			// 4 : r, c 인덱스가 오른쪽 아래 영역에 해당하면
 			z(n - 1, downI, rightJ, value + v * 3);	// 값에 v * 3을 더해줌
 		}
+        System.out.println("aaaa");
 	}
 }
