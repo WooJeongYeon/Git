@@ -83,4 +83,5 @@
 |<center>문제 맞추기</center>|-|-|[s1-2223455443](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EB%AC%B8%EC%A0%9C%20%EB%A7%9E%EC%B6%94%EA%B8%B0/yjydev/s1-2223455443.java)|[BJ1074_Z](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EB%AC%B8%EC%A0%9C%20%EB%A7%9E%EC%B6%94%EA%B8%B0/WooJeongYeon/BJ1074_Z.java)|   
 |<center>test</center>|-|-|[s1.js](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/test/yjydev/s1.js.java)|-|   
 |<center>dtd</center>|-|-|-|-|   
+|<center>ㅅㄷㄴㅅ</center>|-|-|-|-|   
 ---   
